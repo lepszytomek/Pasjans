@@ -1,6 +1,4 @@
-import pygame, sys
-import math
-
+import pygame, sys, math
 
 
 class Game(object):
